@@ -6,5 +6,5 @@ Human Versus Human
 
 Human Versus Robot
 
-![human-robot](https://github.com/dylanchu/Tic-Tac-Toe/raw/master/hr.jgp)
+![human-robot](https://github.com/dylanchu/Tic-Tac-Toe/raw/master/hr.jpg)
 
